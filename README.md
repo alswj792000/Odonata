@@ -67,7 +67,7 @@ Server : Apache Tomcat 9.0
 Database : Oracle 18c
 Development Tool : Eclipse 4.15.0, sqlDeveloper version 21.2.1
 Development Language :  JAVA, HTML5, CSS3, JavaScript, jQuery, SQL, EL/JSTL
-Framework: Spring, Mybatis, Bootstrap
+Framework: Bootstrap
 Team Coop : Github, VScode 1.16.2, ERDCloud, kakaoOven
 Open API : Google Map API, I’mport API
 ```
